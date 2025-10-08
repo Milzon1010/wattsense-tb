@@ -1,0 +1,10 @@
+{
+  "timestamp_key": "timestamp",
+  "device_id_key": "deviceId",
+  "measurements_root": "measurements",
+  "map": {
+    "flow_rate": "flow_rate",
+    "volume": "volume_m3",
+    "pressure": "pressure_bar"
+  }
+}
